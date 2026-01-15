@@ -17,6 +17,7 @@ import model.Rent;
  */
 public class RentBikes {
     
+    
     private Employee employee;
     
     private ArrayList<Client> clients;
